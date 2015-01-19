@@ -11,3 +11,6 @@ an tip calculator application for ios
 2. implement SettingsViewController to allow setting default tip percentage.
 
 
+Preview App:
+
+![ScreenShot](https://github.com/yinaw/tipCalculator/blob/master/iphone.gif)
